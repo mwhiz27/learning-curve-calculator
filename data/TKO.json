@@ -1,0 +1,793 @@
+{
+ "ticker": "TKO",
+ "company": "TKO Group Holdings, Inc. (NYSE: TKO)",
+ "segment": "UFC segment",
+ "cik": 1973266,
+ "cost_label": "UFC direct operating costs",
+ "cost_unit": "USD millions",
+ "unit_label": "live event",
+ "unit_label_plural": "live events",
+ "units_type": "direct",
+ "units_note": "Direct unit count: total UFC events (numbered events + Fight Nights) as disclosed in the 'UFC Operating Metrics' table of each 10-K/10-Q. No revenue proxy needed.",
+ "cost_note": "Direct operating costs = athlete costs, production, venue, marketing and event costs (TKO's closest analog to COGS; TKO has no 'cost of revenue' line). Excludes SG&A and D&A.",
+ "series": {
+  "mixed": {
+   "name": "Max detail: 2020\u201321 annual, H1 2022, then quarterly",
+   "rows": [
+    {
+     "label": "2020",
+     "start": "2020-01-01",
+     "end": "2020-12-31",
+     "kind": "year",
+     "cost": 267.36,
+     "units": 41,
+     "source": {
+      "form": "S-1",
+      "period": "n/a",
+      "filed": "2023-09-15",
+      "accession": "0001193125-23-236217",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312523236217/d537457ds1.htm",
+      "note": "Zuffa Parent, LLC (UFC) audited statements in TKO S-1. Event count from MD&A prose: 2022 had 'one fewer event' than 2021; 2021 had 'two additional events' vs 2020."
+     }
+    },
+    {
+     "label": "2021",
+     "start": "2021-01-01",
+     "end": "2021-12-31",
+     "kind": "year",
+     "cost": 335.604,
+     "units": 43,
+     "source": {
+      "form": "S-1",
+      "period": "n/a",
+      "filed": "2023-09-15",
+      "accession": "0001193125-23-236217",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312523236217/d537457ds1.htm",
+      "note": "Zuffa Parent, LLC (UFC) audited statements in TKO S-1. Event count from MD&A prose: 2022 had 'one fewer event' than 2021; 2021 had 'two additional events' vs 2020."
+     }
+    },
+    {
+     "label": "H1 2022",
+     "start": "2022-01-01",
+     "end": "2022-06-30",
+     "kind": "half",
+     "cost": 143.864,
+     "units": 21,
+     "source": {
+      "form": "S-1",
+      "period": "n/a",
+      "filed": "2023-09-15",
+      "accession": "0001193125-23-236217",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312523236217/d537457ds1.htm",
+      "note": "Six months ended June 30, 2022 (Zuffa Parent, unaudited). Events = 9M'22 (32) minus Q3'22 (11), from 10-Q 2023-09-30.",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000197326623000009/tko-20230930x10q.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q3 2022",
+     "start": "2022-07-01",
+     "end": "2022-09-30",
+     "kind": "quarter",
+     "cost": 99.6,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2023-09-30",
+      "filed": "2023-11-07",
+      "accession": "0001973266-23-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326623000009/tko-20230930x10q.htm",
+      "note": "UFC segment table, MD&A (prior-year three months)"
+     }
+    },
+    {
+     "label": "Q4 2022",
+     "start": "2022-10-01",
+     "end": "2022-12-31",
+     "kind": "quarter",
+     "cost": 82.1,
+     "units": 10,
+     "source": {
+      "form": "10-K",
+      "period": "2023-12-31",
+      "filed": "2024-02-27",
+      "accession": "0001562762-24-000038",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+      "note": "Derived: FY2022 (10-K) minus nine months (10-Q 2023-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000197326623000009/tko-20230930x10q.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2023",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "kind": "quarter",
+     "cost": 89.2,
+     "units": 10,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-03-31",
+      "filed": "2024-05-08",
+      "accession": "0001973266-24-000013",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000013/tko-20240331x10q.htm",
+      "note": "UFC segment table, MD&A (prior-year three months)"
+     }
+    },
+    {
+     "label": "Q2 2023",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "kind": "quarter",
+     "cost": 82.8,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-06-30",
+      "filed": "2024-08-08",
+      "accession": "0001973266-24-000021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000021/tko-20240630x10q.htm",
+      "note": "UFC segment table, MD&A (prior-year three months)"
+     }
+    },
+    {
+     "label": "Q3 2023",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "kind": "quarter",
+     "cost": 117.7,
+     "units": 13,
+     "source": {
+      "form": "10-Q",
+      "period": "2023-09-30",
+      "filed": "2023-11-07",
+      "accession": "0001973266-23-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326623000009/tko-20230930x10q.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q4 2023",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "kind": "quarter",
+     "cost": 93.7,
+     "units": 9,
+     "source": {
+      "form": "10-K",
+      "period": "2023-12-31",
+      "filed": "2024-02-27",
+      "accession": "0001562762-24-000038",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+      "note": "Derived: FY2023 (10-K) minus nine months (10-Q 2024-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000095017024122364/tko-20240930.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2024",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "kind": "quarter",
+     "cost": 82.3,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-03-31",
+      "filed": "2024-05-08",
+      "accession": "0001973266-24-000013",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000013/tko-20240331x10q.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q2 2024",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "kind": "quarter",
+     "cost": 119.6,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-06-30",
+      "filed": "2024-08-08",
+      "accession": "0001973266-24-000021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000021/tko-20240630x10q.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q3 2024",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "kind": "quarter",
+     "cost": 114.8,
+     "units": 10,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-09-30",
+      "filed": "2024-11-06",
+      "accession": "0000950170-24-122364",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017024122364/tko-20240930.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q4 2024",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "kind": "quarter",
+     "cost": 113.5,
+     "units": 10,
+     "source": {
+      "form": "10-K",
+      "period": "2024-12-31",
+      "filed": "2025-02-26",
+      "accession": "0000950170-25-027778",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm",
+      "note": "Derived: FY2024 (10-K) minus nine months (10-Q 2025-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2025",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "kind": "quarter",
+     "cost": 89.7,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-03-31",
+      "filed": "2025-05-08",
+      "accession": "0000950170-25-067220",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025067220/tko-20250331.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q2 2025",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "kind": "quarter",
+     "cost": 116.3,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-06-30",
+      "filed": "2025-08-06",
+      "accession": "0000950170-25-104095",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025104095/tko-20250630.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q3 2025",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "kind": "quarter",
+     "cost": 104.0,
+     "units": 10,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-09-30",
+      "filed": "2025-11-05",
+      "accession": "0001193125-25-267014",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q4 2025",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "kind": "quarter",
+     "cost": 123.2,
+     "units": 10,
+     "source": {
+      "form": "10-K",
+      "period": "2025-12-31",
+      "filed": "2026-02-25",
+      "accession": "0001193125-26-071651",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm",
+      "note": "Derived: FY2025 (10-K) minus nine months (10-Q 2025-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2026",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "kind": "quarter",
+     "cost": 98.6,
+     "units": 9,
+     "source": {
+      "form": "10-Q",
+      "period": "2026-03-31",
+      "filed": "2026-05-06",
+      "accession": "0001193125-26-208992",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526208992/tko-20260331.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q2 2026",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "kind": "quarter",
+     "cost": 192.2,
+     "units": 12,
+     "source": {
+      "form": "10-Q",
+      "period": "2026-06-30",
+      "filed": "2026-08-03",
+      "accession": "0001193125-26-330592",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526330592/tko-20260630.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    }
+   ]
+  },
+  "quarterly": {
+   "name": "Quarterly only (Q1 2023 on)",
+   "rows": [
+    {
+     "label": "Q1 2023",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "kind": "quarter",
+     "cost": 89.2,
+     "units": 10,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-03-31",
+      "filed": "2024-05-08",
+      "accession": "0001973266-24-000013",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000013/tko-20240331x10q.htm",
+      "note": "UFC segment table, MD&A (prior-year three months)"
+     }
+    },
+    {
+     "label": "Q2 2023",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "kind": "quarter",
+     "cost": 82.8,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-06-30",
+      "filed": "2024-08-08",
+      "accession": "0001973266-24-000021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000021/tko-20240630x10q.htm",
+      "note": "UFC segment table, MD&A (prior-year three months)"
+     }
+    },
+    {
+     "label": "Q3 2023",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "kind": "quarter",
+     "cost": 117.7,
+     "units": 13,
+     "source": {
+      "form": "10-Q",
+      "period": "2023-09-30",
+      "filed": "2023-11-07",
+      "accession": "0001973266-23-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326623000009/tko-20230930x10q.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q4 2023",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "kind": "quarter",
+     "cost": 93.7,
+     "units": 9,
+     "source": {
+      "form": "10-K",
+      "period": "2023-12-31",
+      "filed": "2024-02-27",
+      "accession": "0001562762-24-000038",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+      "note": "Derived: FY2023 (10-K) minus nine months (10-Q 2024-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000095017024122364/tko-20240930.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2024",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "kind": "quarter",
+     "cost": 82.3,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-03-31",
+      "filed": "2024-05-08",
+      "accession": "0001973266-24-000013",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000013/tko-20240331x10q.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q2 2024",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "kind": "quarter",
+     "cost": 119.6,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-06-30",
+      "filed": "2024-08-08",
+      "accession": "0001973266-24-000021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000021/tko-20240630x10q.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q3 2024",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "kind": "quarter",
+     "cost": 114.8,
+     "units": 10,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-09-30",
+      "filed": "2024-11-06",
+      "accession": "0000950170-24-122364",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017024122364/tko-20240930.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q4 2024",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "kind": "quarter",
+     "cost": 113.5,
+     "units": 10,
+     "source": {
+      "form": "10-K",
+      "period": "2024-12-31",
+      "filed": "2025-02-26",
+      "accession": "0000950170-25-027778",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm",
+      "note": "Derived: FY2024 (10-K) minus nine months (10-Q 2025-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2025",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "kind": "quarter",
+     "cost": 89.7,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-03-31",
+      "filed": "2025-05-08",
+      "accession": "0000950170-25-067220",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025067220/tko-20250331.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q2 2025",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "kind": "quarter",
+     "cost": 116.3,
+     "units": 11,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-06-30",
+      "filed": "2025-08-06",
+      "accession": "0000950170-25-104095",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025104095/tko-20250630.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q3 2025",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "kind": "quarter",
+     "cost": 104.0,
+     "units": 10,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-09-30",
+      "filed": "2025-11-05",
+      "accession": "0001193125-25-267014",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q4 2025",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "kind": "quarter",
+     "cost": 123.2,
+     "units": 10,
+     "source": {
+      "form": "10-K",
+      "period": "2025-12-31",
+      "filed": "2026-02-25",
+      "accession": "0001193125-26-071651",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm",
+      "note": "Derived: FY2025 (10-K) minus nine months (10-Q 2025-09-30)",
+      "derived_from": [
+       "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm",
+       "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm"
+      ]
+     }
+    },
+    {
+     "label": "Q1 2026",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "kind": "quarter",
+     "cost": 98.6,
+     "units": 9,
+     "source": {
+      "form": "10-Q",
+      "period": "2026-03-31",
+      "filed": "2026-05-06",
+      "accession": "0001193125-26-208992",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526208992/tko-20260331.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    },
+    {
+     "label": "Q2 2026",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "kind": "quarter",
+     "cost": 192.2,
+     "units": 12,
+     "source": {
+      "form": "10-Q",
+      "period": "2026-06-30",
+      "filed": "2026-08-03",
+      "accession": "0001193125-26-330592",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526330592/tko-20260630.htm",
+      "note": "UFC segment table, MD&A (three months)"
+     }
+    }
+   ]
+  },
+  "annual": {
+   "name": "Annual (10-K / S-1)",
+   "rows": [
+    {
+     "label": "2020",
+     "start": "2020-01-01",
+     "end": "2020-12-31",
+     "kind": "year",
+     "cost": 267.36,
+     "units": 41,
+     "source": {
+      "form": "S-1",
+      "period": "n/a",
+      "filed": "2023-09-15",
+      "accession": "0001193125-23-236217",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312523236217/d537457ds1.htm",
+      "note": "Zuffa Parent, LLC (UFC) audited statements in TKO S-1. Event count from MD&A prose: 2022 had 'one fewer event' than 2021; 2021 had 'two additional events' vs 2020."
+     }
+    },
+    {
+     "label": "2021",
+     "start": "2021-01-01",
+     "end": "2021-12-31",
+     "kind": "year",
+     "cost": 335.604,
+     "units": 43,
+     "source": {
+      "form": "S-1",
+      "period": "n/a",
+      "filed": "2023-09-15",
+      "accession": "0001193125-23-236217",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312523236217/d537457ds1.htm",
+      "note": "Zuffa Parent, LLC (UFC) audited statements in TKO S-1. Event count from MD&A prose: 2022 had 'one fewer event' than 2021; 2021 had 'two additional events' vs 2020."
+     }
+    },
+    {
+     "label": "2022",
+     "start": "2022-01-01",
+     "end": "2022-12-31",
+     "kind": "year",
+     "cost": 325.6,
+     "units": 42,
+     "source": {
+      "form": "10-K",
+      "period": "2023-12-31",
+      "filed": "2024-02-27",
+      "accession": "0001562762-24-000038",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+      "note": "UFC segment table, MD&A (prior-year column)"
+     }
+    },
+    {
+     "label": "2023",
+     "start": "2023-01-01",
+     "end": "2023-12-31",
+     "kind": "year",
+     "cost": 383.4,
+     "units": 43,
+     "source": {
+      "form": "10-K",
+      "period": "2023-12-31",
+      "filed": "2024-02-27",
+      "accession": "0001562762-24-000038",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+      "note": "UFC segment table, MD&A"
+     }
+    },
+    {
+     "label": "2024",
+     "start": "2024-01-01",
+     "end": "2024-12-31",
+     "kind": "year",
+     "cost": 430.2,
+     "units": 42,
+     "source": {
+      "form": "10-K",
+      "period": "2024-12-31",
+      "filed": "2025-02-26",
+      "accession": "0000950170-25-027778",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm",
+      "note": "UFC segment table, MD&A"
+     }
+    },
+    {
+     "label": "2025",
+     "start": "2025-01-01",
+     "end": "2025-12-31",
+     "kind": "year",
+     "cost": 433.2,
+     "units": 42,
+     "source": {
+      "form": "10-K",
+      "period": "2025-12-31",
+      "filed": "2026-02-25",
+      "accession": "0001193125-26-071651",
+      "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm",
+      "note": "UFC segment table, MD&A"
+     }
+    }
+   ]
+  }
+ },
+ "default_series": "mixed",
+ "cross_checks": [
+  "(2023, 3): 10-Q 2024-09-30 matches 10-Q 2023-09-30",
+  "2023: 10-K 2024-12-31 matches 10-K 2023-12-31",
+  "(2024, 1): 10-Q 2025-03-31 matches 10-Q 2024-03-31",
+  "(2024, 2): 10-Q 2025-06-30 matches 10-Q 2024-06-30",
+  "(2024, 3): 10-Q 2025-09-30 matches 10-Q 2024-09-30",
+  "2024: 10-K 2025-12-31 matches 10-K 2024-12-31",
+  "(2025, 1): 10-Q 2026-03-31 matches 10-Q 2025-03-31",
+  "(2025, 2): 10-Q 2026-06-30 matches 10-Q 2025-06-30",
+  "2022: S-1 n/a matches 10-K 2023-12-31",
+  "H1 2022: S-1 cost 143.9 = 9M'22 243.5 - Q3'22 99.6"
+ ],
+ "cpi": {
+  "2019-01": 251.712,
+  "2019-02": 252.776,
+  "2019-03": 254.202,
+  "2019-04": 255.548,
+  "2019-05": 256.092,
+  "2019-06": 256.143,
+  "2019-07": 256.571,
+  "2019-08": 256.558,
+  "2019-09": 256.759,
+  "2019-10": 257.346,
+  "2019-11": 257.208,
+  "2019-12": 256.974,
+  "2020-01": 257.971,
+  "2020-02": 258.678,
+  "2020-03": 258.115,
+  "2020-04": 256.389,
+  "2020-05": 256.394,
+  "2020-06": 257.797,
+  "2020-07": 259.101,
+  "2020-08": 259.918,
+  "2020-09": 260.28,
+  "2020-10": 260.388,
+  "2020-11": 260.229,
+  "2020-12": 260.474,
+  "2021-01": 261.582,
+  "2021-02": 263.014,
+  "2021-03": 264.877,
+  "2021-04": 267.054,
+  "2021-05": 269.195,
+  "2021-06": 271.696,
+  "2021-07": 273.003,
+  "2021-08": 273.567,
+  "2021-09": 274.31,
+  "2021-10": 276.589,
+  "2021-11": 277.948,
+  "2021-12": 278.802,
+  "2022-01": 281.148,
+  "2022-02": 283.716,
+  "2022-03": 287.504,
+  "2022-04": 289.109,
+  "2022-05": 292.296,
+  "2022-06": 296.311,
+  "2022-07": 296.276,
+  "2022-08": 296.171,
+  "2022-09": 296.808,
+  "2022-10": 298.012,
+  "2022-11": 297.711,
+  "2022-12": 296.797,
+  "2023-01": 299.17,
+  "2023-02": 300.84,
+  "2023-03": 301.836,
+  "2023-04": 303.363,
+  "2023-05": 304.127,
+  "2023-06": 305.109,
+  "2023-07": 305.691,
+  "2023-08": 307.026,
+  "2023-09": 307.789,
+  "2023-10": 307.671,
+  "2023-11": 307.051,
+  "2023-12": 306.746,
+  "2024-01": 308.417,
+  "2024-02": 310.326,
+  "2024-03": 312.332,
+  "2024-04": 313.548,
+  "2024-05": 314.069,
+  "2024-06": 314.175,
+  "2024-07": 314.54,
+  "2024-08": 314.796,
+  "2024-09": 315.301,
+  "2024-10": 315.664,
+  "2024-11": 315.493,
+  "2024-12": 315.605,
+  "2025-01": 317.671,
+  "2025-02": 319.082,
+  "2025-03": 319.799,
+  "2025-04": 320.795,
+  "2025-05": 321.465,
+  "2025-06": 322.561,
+  "2025-07": 323.048,
+  "2025-08": 323.976,
+  "2025-09": 324.8,
+  "2025-11": 324.122,
+  "2025-12": 324.054,
+  "2026-01": 325.252,
+  "2026-02": 326.785,
+  "2026-03": 330.213,
+  "2026-04": 333.02,
+  "2026-05": 335.123,
+  "2026-06": 333.952,
+  "2026-07": 333.918,
+  "2026-08": 334.98,
+  "2026-09": 336.94
+ },
+ "generated": "2026-10-17"
+}

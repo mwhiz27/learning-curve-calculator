@@ -1,0 +1,17 @@
+{
+ "TKO": {
+  "why_this_company": "PGA Tour Entertainment (my Strategic Project company) is private, so this runs on its closest public competitor: TKO Group's UFC segment. Both sell the same product, a calendar of live sporting events monetized through media rights, sponsorship and gate, with costs driven by athlete pay, production and venues. UFC stages ~42 events a year; the PGA Tour stages ~48. UFC's cost per event is the cost curve a tour operator is racing.",
+  "industry_benchmark": "Classic experience curves (10–30% per doubling) come from repetitive manufacturing: semiconductors, solar modules, aircraft assembly. Live sports is the opposite case: the 'unit' is a one-off event whose biggest input, star talent, is bid up as the league grows (Baumol's cost disease). A learning rate near zero or negative is the expected result for this industry, not a failure of the tool.",
+  "outliers": {
+   "2020": "COVID year: events held in closed 'Fight Island'/Apex venues without crowds, so venue and event costs were unusually low.",
+   "Q2 2026": "Includes UFC Freedom 250 at the White House; TKO attributes $77.2M of higher production, athlete and event costs to it (10-Q for Q2 2026)."
+  },
+  "strategy": "UFC's advantage is not on the cost side. Cost per event has risen with cumulative volume while direct costs stayed near 30% of revenue (2020: 30%, 2025: 29%), which means scale advantage shows up on the revenue side (bigger media-rights deals, site fees, sponsorship) rather than as cheaper production. For PGA Tour, the lesson is that adding events or growing the tour will not by itself lower cost per event: purses and appearance money (sharpened by LIV competition) behave like UFC athlete costs. A cost-based scale moat is not available to anyone in this race; the defensible scale advantages are audience reach and rights bargaining power."
+ },
+ "GOLF": {
+  "why_this_company": "Acushnet (Titleist, FootJoy) is shown as a second ticker to demonstrate the generic EDGAR path, which pulls COGS straight from XBRL and uses the revenue proxy for units.",
+  "industry_benchmark": "Golf equipment is manufactured, so some experience-curve effect is plausible, but annual model refreshes reset the curve for every product line.",
+  "outliers": {},
+  "strategy": "With a constant-price proxy the curve measures COGS as a share of revenue against cumulative revenue, which says more about gross-margin trends than about true unit learning."
+ }
+}

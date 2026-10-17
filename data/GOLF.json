@@ -1,0 +1,829 @@
+{
+ "ticker": "GOLF",
+ "company": "Acushnet Holdings Corp.",
+ "segment": "Consolidated",
+ "cik": 1672013,
+ "cost_label": "Cost of revenue (XBRL)",
+ "cost_unit": "USD millions",
+ "unit_label": "unit",
+ "unit_label_plural": "units",
+ "units_type": "proxy",
+ "price": {
+  "base": 50.0,
+  "source": "Illustrative constant price (cancels out of b); Acushnet does not disclose unit volumes",
+  "index": "constant"
+ },
+ "units_note": "Revenue proxy: units = revenue / average price ($50 in Q1 2016, held constant). Source: Illustrative constant price (cancels out of b); Acushnet does not disclose unit volumes",
+ "cost_note": "COGS from SEC XBRL company facts; quarterly values, Q4 derived as fiscal year minus Q1\u2013Q3.",
+ "series": {
+  "quarterly": {
+   "name": "Quarterly (10-Q / 10-K)",
+   "rows": [
+    {
+     "label": "Q1 2016",
+     "start": "2016-01-01",
+     "end": "2016-03-31",
+     "kind": "quarter",
+     "cost": 214.066,
+     "revenue": 439.935,
+     "source": {
+      "form": "10-Q",
+      "period": "2016-03-31",
+      "filed": "2017-05-12",
+      "accession": "0001558370-17-004272",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000155837017004272/",
+      "note": "XBRL tag CostOfGoodsSold"
+     }
+    },
+    {
+     "label": "Q2 2016",
+     "start": "2016-04-01",
+     "end": "2016-06-30",
+     "kind": "quarter",
+     "cost": 225.301,
+     "revenue": 463.261,
+     "source": {
+      "form": "10-Q",
+      "period": "2016-06-30",
+      "filed": "2017-08-11",
+      "accession": "0001558370-17-006573",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000155837017006573/",
+      "note": "XBRL tag CostOfGoodsSold"
+     }
+    },
+    {
+     "label": "Q3 2016",
+     "start": "2016-07-01",
+     "end": "2016-09-30",
+     "kind": "quarter",
+     "cost": 172.416,
+     "revenue": 339.318,
+     "source": {
+      "form": "10-Q",
+      "period": "2016-09-30",
+      "filed": "2017-11-08",
+      "accession": "0001558370-17-008542",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000155837017008542/",
+      "note": "XBRL tag CostOfGoodsSold"
+     }
+    },
+    {
+     "label": "Q4 2016",
+     "start": "2016-10-01",
+     "end": "2016-12-31",
+     "kind": "quarter",
+     "cost": 161.492,
+     "revenue": 329.761,
+     "source": {
+      "form": "10-K",
+      "period": "2016-12-31",
+      "filed": "2019-02-28",
+      "accession": "0001672013-19-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201319000009/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2017",
+     "start": "2017-01-01",
+     "end": "2017-03-31",
+     "kind": "quarter",
+     "cost": 207.2,
+     "revenue": 433.615,
+     "source": {
+      "form": "10-Q",
+      "period": "2017-03-31",
+      "filed": "2018-05-03",
+      "accession": "0001672013-18-000020",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201318000020/",
+      "note": "XBRL tag CostOfGoodsSold"
+     }
+    },
+    {
+     "label": "Q2 2017",
+     "start": "2017-04-01",
+     "end": "2017-06-30",
+     "kind": "quarter",
+     "cost": 205.022,
+     "revenue": 427.988,
+     "source": {
+      "form": "10-Q",
+      "period": "2017-06-30",
+      "filed": "2018-08-02",
+      "accession": "0001672013-18-000038",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201318000038/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2017",
+     "start": "2017-07-01",
+     "end": "2017-09-30",
+     "kind": "quarter",
+     "cost": 174.159,
+     "revenue": 347.263,
+     "source": {
+      "form": "10-Q",
+      "period": "2017-09-30",
+      "filed": "2018-11-01",
+      "accession": "0001672013-18-000043",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201318000043/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2017",
+     "start": "2017-10-01",
+     "end": "2017-12-31",
+     "kind": "quarter",
+     "cost": 172.02,
+     "revenue": 351.392,
+     "source": {
+      "form": "10-K",
+      "period": "2017-12-31",
+      "filed": "2020-02-27",
+      "accession": "0001672013-20-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201320000008/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2018",
+     "start": "2018-01-01",
+     "end": "2018-03-31",
+     "kind": "quarter",
+     "cost": 214.127,
+     "revenue": 441.801,
+     "source": {
+      "form": "10-Q",
+      "period": "2018-03-31",
+      "filed": "2019-05-08",
+      "accession": "0001672013-19-000027",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201319000027/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2018",
+     "start": "2018-04-01",
+     "end": "2018-06-30",
+     "kind": "quarter",
+     "cost": 227.328,
+     "revenue": 478.138,
+     "source": {
+      "form": "10-Q",
+      "period": "2018-06-30",
+      "filed": "2019-08-07",
+      "accession": "0001672013-19-000047",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201319000047/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2018",
+     "start": "2018-07-01",
+     "end": "2018-09-30",
+     "kind": "quarter",
+     "cost": 181.489,
+     "revenue": 370.427,
+     "source": {
+      "form": "10-Q",
+      "period": "2018-09-30",
+      "filed": "2019-10-31",
+      "accession": "0001672013-19-000056",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201319000056/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2018",
+     "start": "2018-10-01",
+     "end": "2018-12-31",
+     "kind": "quarter",
+     "cost": 168.426,
+     "revenue": 343.355,
+     "source": {
+      "form": "10-K",
+      "period": "2018-12-31",
+      "filed": "2021-02-25",
+      "accession": "0001672013-21-000013",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201321000013/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2019",
+     "start": "2019-01-01",
+     "end": "2019-03-31",
+     "kind": "quarter",
+     "cost": 211.545,
+     "revenue": 433.702,
+     "source": {
+      "form": "10-Q",
+      "period": "2019-03-31",
+      "filed": "2020-05-07",
+      "accession": "0001672013-20-000029",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201320000029/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2019",
+     "start": "2019-04-01",
+     "end": "2019-06-30",
+     "kind": "quarter",
+     "cost": 216.175,
+     "revenue": 462.218,
+     "source": {
+      "form": "10-Q",
+      "period": "2019-06-30",
+      "filed": "2020-08-05",
+      "accession": "0001672013-20-000048",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201320000048/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2019",
+     "start": "2019-07-01",
+     "end": "2019-09-30",
+     "kind": "quarter",
+     "cost": 199.822,
+     "revenue": 417.166,
+     "source": {
+      "form": "10-Q",
+      "period": "2019-09-30",
+      "filed": "2020-11-06",
+      "accession": "0001672013-20-000059",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201320000059/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2019",
+     "start": "2019-10-01",
+     "end": "2019-12-31",
+     "kind": "quarter",
+     "cost": 181.58,
+     "revenue": 368.271,
+     "source": {
+      "form": "10-K",
+      "period": "2019-12-31",
+      "filed": "2022-03-01",
+      "accession": "0001672013-22-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201322000009/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2020",
+     "start": "2020-01-01",
+     "end": "2020-03-31",
+     "kind": "quarter",
+     "cost": 207.786,
+     "revenue": 408.741,
+     "source": {
+      "form": "10-Q",
+      "period": "2020-03-31",
+      "filed": "2021-05-06",
+      "accession": "0001672013-21-000035",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201321000035/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2020",
+     "start": "2020-04-01",
+     "end": "2020-06-30",
+     "kind": "quarter",
+     "cost": 143.545,
+     "revenue": 300.002,
+     "source": {
+      "form": "10-Q",
+      "period": "2020-06-30",
+      "filed": "2021-08-05",
+      "accession": "0001672013-21-000055",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201321000055/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2020",
+     "start": "2020-07-01",
+     "end": "2020-09-30",
+     "kind": "quarter",
+     "cost": 230.911,
+     "revenue": 482.932,
+     "source": {
+      "form": "10-Q",
+      "period": "2020-09-30",
+      "filed": "2021-11-04",
+      "accession": "0001672013-21-000067",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201321000067/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2020",
+     "start": "2020-10-01",
+     "end": "2020-12-31",
+     "kind": "quarter",
+     "cost": 200.091,
+     "revenue": 420.494,
+     "source": {
+      "form": "10-K",
+      "period": "2020-12-31",
+      "filed": "2023-03-01",
+      "accession": "0001672013-23-000011",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201323000011/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2021",
+     "start": "2021-01-01",
+     "end": "2021-03-31",
+     "kind": "quarter",
+     "cost": 270.146,
+     "revenue": 580.885,
+     "source": {
+      "form": "10-Q",
+      "period": "2021-03-31",
+      "filed": "2022-05-05",
+      "accession": "0001672013-22-000027",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201322000027/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2021",
+     "start": "2021-04-01",
+     "end": "2021-06-30",
+     "kind": "quarter",
+     "cost": 290.424,
+     "revenue": 624.85,
+     "source": {
+      "form": "10-Q",
+      "period": "2021-06-30",
+      "filed": "2022-08-04",
+      "accession": "0001672013-22-000049",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201322000049/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2021",
+     "start": "2021-07-01",
+     "end": "2021-09-30",
+     "kind": "quarter",
+     "cost": 252.792,
+     "revenue": 521.629,
+     "source": {
+      "form": "10-Q",
+      "period": "2021-09-30",
+      "filed": "2022-11-03",
+      "accession": "0001672013-22-000058",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201322000058/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2021",
+     "start": "2021-10-01",
+     "end": "2021-12-31",
+     "kind": "quarter",
+     "cost": 216.131,
+     "revenue": 420.566,
+     "source": {
+      "form": "10-K",
+      "period": "2021-12-31",
+      "filed": "2024-02-29",
+      "accession": "0001672013-24-000008",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201324000008/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2022",
+     "start": "2022-01-01",
+     "end": "2022-03-31",
+     "kind": "quarter",
+     "cost": 289.088,
+     "revenue": 606.087,
+     "source": {
+      "form": "10-Q",
+      "period": "2022-03-31",
+      "filed": "2023-05-04",
+      "accession": "0001672013-23-000044",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201323000044/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2022",
+     "start": "2022-04-01",
+     "end": "2022-06-30",
+     "kind": "quarter",
+     "cost": 314.993,
+     "revenue": 658.599,
+     "source": {
+      "form": "10-Q",
+      "period": "2022-06-30",
+      "filed": "2023-08-03",
+      "accession": "0001672013-23-000063",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201323000063/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2022",
+     "start": "2022-07-01",
+     "end": "2022-09-30",
+     "kind": "quarter",
+     "cost": 263.251,
+     "revenue": 558.246,
+     "source": {
+      "form": "10-Q",
+      "period": "2022-09-30",
+      "filed": "2023-11-02",
+      "accession": "0001672013-23-000070",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201323000070/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2022",
+     "start": "2022-10-01",
+     "end": "2022-12-31",
+     "kind": "quarter",
+     "cost": 354.315,
+     "revenue": 447.404,
+     "source": {
+      "form": "10-K",
+      "period": "2022-12-31",
+      "filed": "2025-02-27",
+      "accession": "0001672013-25-000009",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000009/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2023",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "kind": "quarter",
+     "cost": 320.618,
+     "revenue": 686.29,
+     "source": {
+      "form": "10-Q",
+      "period": "2023-03-31",
+      "filed": "2024-05-07",
+      "accession": "0001672013-24-000027",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201324000027/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2023",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "kind": "quarter",
+     "cost": 320.84,
+     "revenue": 689.363,
+     "source": {
+      "form": "10-Q",
+      "period": "2023-06-30",
+      "filed": "2024-08-06",
+      "accession": "0001672013-24-000045",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201324000045/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2023",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "kind": "quarter",
+     "cost": 284.859,
+     "revenue": 593.381,
+     "source": {
+      "form": "10-Q",
+      "period": "2023-09-30",
+      "filed": "2024-11-07",
+      "accession": "0001672013-24-000057",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201324000057/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2023",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "kind": "quarter",
+     "cost": 335.641,
+     "revenue": 412.961,
+     "source": {
+      "form": "10-K",
+      "period": "2023-12-31",
+      "filed": "2026-02-27",
+      "accession": "0001672013-26-000057",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000057/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2024",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "kind": "quarter",
+     "cost": 365.202,
+     "revenue": 707.554,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-03-31",
+      "filed": "2025-05-07",
+      "accession": "0001672013-25-000024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000024/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2024",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "kind": "quarter",
+     "cost": 350.407,
+     "revenue": 683.867,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-06-30",
+      "filed": "2025-08-07",
+      "accession": "0001672013-25-000046",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000046/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2024",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "kind": "quarter",
+     "cost": 316.287,
+     "revenue": 620.501,
+     "source": {
+      "form": "10-Q",
+      "period": "2024-09-30",
+      "filed": "2025-11-05",
+      "accession": "0001672013-25-000067",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000067/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2024",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "kind": "quarter",
+     "cost": 237.468,
+     "revenue": 445.169,
+     "source": {
+      "form": "10-K",
+      "period": "2024-12-31",
+      "filed": "2026-02-27",
+      "accession": "0001672013-26-000057",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000057/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2025",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "kind": "quarter",
+     "cost": 366.21,
+     "revenue": 703.372,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-03-31",
+      "filed": "2026-05-06",
+      "accession": "0001672013-26-000112",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000112/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2025",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "kind": "quarter",
+     "cost": 366.16,
+     "revenue": 720.476,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-06-30",
+      "filed": "2026-08-06",
+      "accession": "0001672013-26-000158",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000158/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q3 2025",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "kind": "quarter",
+     "cost": 338.535,
+     "revenue": 657.658,
+     "source": {
+      "form": "10-Q",
+      "period": "2025-09-30",
+      "filed": "2025-11-05",
+      "accession": "0001672013-25-000067",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000067/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q4 2025",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "kind": "quarter",
+     "cost": 266.571,
+     "revenue": 477.224,
+     "source": {
+      "form": "10-K",
+      "period": "2025-12-31",
+      "filed": "2026-02-27",
+      "accession": "0001672013-26-000057",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000057/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold; fiscal year minus Q1-Q3"
+     }
+    },
+    {
+     "label": "Q1 2026",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "kind": "quarter",
+     "cost": 397.715,
+     "revenue": 752.975,
+     "source": {
+      "form": "10-Q",
+      "period": "2026-03-31",
+      "filed": "2026-05-06",
+      "accession": "0001672013-26-000112",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000112/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    },
+    {
+     "label": "Q2 2026",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "kind": "quarter",
+     "cost": 374.12,
+     "revenue": 819.951,
+     "source": {
+      "form": "10-Q",
+      "period": "2026-06-30",
+      "filed": "2026-08-06",
+      "accession": "0001672013-26-000158",
+      "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000158/",
+      "note": "XBRL tag CostOfGoodsAndServicesSold"
+     }
+    }
+   ]
+  }
+ },
+ "default_series": "quarterly",
+ "cpi": {
+  "2016-01": 236.916,
+  "2016-02": 237.111,
+  "2016-03": 238.132,
+  "2016-04": 239.261,
+  "2016-05": 240.229,
+  "2016-06": 241.018,
+  "2016-07": 240.628,
+  "2016-08": 240.849,
+  "2016-09": 241.428,
+  "2016-10": 241.729,
+  "2016-11": 241.353,
+  "2016-12": 241.432,
+  "2017-01": 242.839,
+  "2017-02": 243.603,
+  "2017-03": 243.801,
+  "2017-04": 244.524,
+  "2017-05": 244.733,
+  "2017-06": 244.955,
+  "2017-07": 244.786,
+  "2017-08": 245.519,
+  "2017-09": 246.819,
+  "2017-10": 246.663,
+  "2017-11": 246.669,
+  "2017-12": 246.524,
+  "2018-01": 247.867,
+  "2018-02": 248.991,
+  "2018-03": 249.554,
+  "2018-04": 250.546,
+  "2018-05": 251.588,
+  "2018-06": 251.989,
+  "2018-07": 252.006,
+  "2018-08": 252.146,
+  "2018-09": 252.439,
+  "2018-10": 252.885,
+  "2018-11": 252.038,
+  "2018-12": 251.233,
+  "2019-01": 251.712,
+  "2019-02": 252.776,
+  "2019-03": 254.202,
+  "2019-04": 255.548,
+  "2019-05": 256.092,
+  "2019-06": 256.143,
+  "2019-07": 256.571,
+  "2019-08": 256.558,
+  "2019-09": 256.759,
+  "2019-10": 257.346,
+  "2019-11": 257.208,
+  "2019-12": 256.974,
+  "2020-01": 257.971,
+  "2020-02": 258.678,
+  "2020-03": 258.115,
+  "2020-04": 256.389,
+  "2020-05": 256.394,
+  "2020-06": 257.797,
+  "2020-07": 259.101,
+  "2020-08": 259.918,
+  "2020-09": 260.28,
+  "2020-10": 260.388,
+  "2020-11": 260.229,
+  "2020-12": 260.474,
+  "2021-01": 261.582,
+  "2021-02": 263.014,
+  "2021-03": 264.877,
+  "2021-04": 267.054,
+  "2021-05": 269.195,
+  "2021-06": 271.696,
+  "2021-07": 273.003,
+  "2021-08": 273.567,
+  "2021-09": 274.31,
+  "2021-10": 276.589,
+  "2021-11": 277.948,
+  "2021-12": 278.802,
+  "2022-01": 281.148,
+  "2022-02": 283.716,
+  "2022-03": 287.504,
+  "2022-04": 289.109,
+  "2022-05": 292.296,
+  "2022-06": 296.311,
+  "2022-07": 296.276,
+  "2022-08": 296.171,
+  "2022-09": 296.808,
+  "2022-10": 298.012,
+  "2022-11": 297.711,
+  "2022-12": 296.797,
+  "2023-01": 299.17,
+  "2023-02": 300.84,
+  "2023-03": 301.836,
+  "2023-04": 303.363,
+  "2023-05": 304.127,
+  "2023-06": 305.109,
+  "2023-07": 305.691,
+  "2023-08": 307.026,
+  "2023-09": 307.789,
+  "2023-10": 307.671,
+  "2023-11": 307.051,
+  "2023-12": 306.746,
+  "2024-01": 308.417,
+  "2024-02": 310.326,
+  "2024-03": 312.332,
+  "2024-04": 313.548,
+  "2024-05": 314.069,
+  "2024-06": 314.175,
+  "2024-07": 314.54,
+  "2024-08": 314.796,
+  "2024-09": 315.301,
+  "2024-10": 315.664,
+  "2024-11": 315.493,
+  "2024-12": 315.605,
+  "2025-01": 317.671,
+  "2025-02": 319.082,
+  "2025-03": 319.799,
+  "2025-04": 320.795,
+  "2025-05": 321.465,
+  "2025-06": 322.561,
+  "2025-07": 323.048,
+  "2025-08": 323.976,
+  "2025-09": 324.8,
+  "2025-11": 324.122,
+  "2025-12": 324.054,
+  "2026-01": 325.252,
+  "2026-02": 326.785,
+  "2026-03": 330.213,
+  "2026-04": 333.02,
+  "2026-05": 335.123,
+  "2026-06": 333.952,
+  "2026-07": 333.918,
+  "2026-08": 334.98,
+  "2026-09": 336.94
+ },
+ "generated": "2026-10-17"
+}
